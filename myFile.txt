@@ -1,4 +1,6 @@
-hat
-bat
 cat
+bat
+hat
 rat
+mat
+sat
